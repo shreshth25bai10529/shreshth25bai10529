@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-Name: SHRESHTH SHUKLA
+I am SHRESHTH SHUKLA
 
 Registration Number: 25BAI10529
 
