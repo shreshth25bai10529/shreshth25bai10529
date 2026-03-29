@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+
+Name: SHRESHTH SHUKLA
+
+Registration Number: 25BAI10529
+
+Branch: Computer Science and Engineering with Specialization in Artificial Intelligence and Machine Learning
+
+Year: 2025-2029
+
+I wish to learn about deep neural networks, machine learning, artificial intelligence, data science, and other related fields.
+
 <!--
 **shreshth25bai10529/shreshth25bai10529** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
